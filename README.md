@@ -1,4 +1,4 @@
-Epub.js
+Epub. js
 ================================
 
 ![FuturePress Views](http://fchasen.com/futurepress/fp.png)
